@@ -92,20 +92,20 @@ Me chamo João Felipe Halberstadt e sou natural do Rio Grande do Sul. Tenho gran
 
 <img 
     align="left" 
-    alt="csharp" 
-    title="csharp"
+    alt="nextjs" 
+    title="nextjs"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
 />
 
 <img 
     align="left" 
-    alt="dotnet" 
-    title="dotnet"
+    alt="expressJS" 
+    title="expressJS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
 />
 
 <img 
