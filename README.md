@@ -62,16 +62,6 @@ Me chamo João Felipe Halberstadt e sou natural do Rio Grande do Sul. Tenho gran
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
 <img 
     align="left" 
     alt="Python" 
@@ -83,20 +73,29 @@ Me chamo João Felipe Halberstadt e sou natural do Rio Grande do Sul. Tenho gran
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="java"
+    title="java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
 <img 
     align="left" 
-    alt="nextjs" 
-    title="nextjs"
+    alt="angular"
+    title="angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="spring" 
+    title="spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 
 <img 
